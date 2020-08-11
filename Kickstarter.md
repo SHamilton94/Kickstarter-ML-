@@ -15,7 +15,7 @@
 
 The Kickstarter ML project will allow for predicition analysis of success or failure of new project ideas given the category of the 
 project, the proposal date, and the budget goal. Further releases will allow for user input of their own ideas, prediction of financial 
-backing amount, and prediction on the number of backers the propsed project could expect to receive. Further releases will have more documentation
+backing amount, and prediction on the number of backers the proposed project could expect to receive. Further releases will have more documentation
 within the code itself. Additionally, further releases will open up the capability for running in your preferred Python editor on your device.
 
 #### Technologies
